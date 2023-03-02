@@ -8,6 +8,5 @@ export default {
 			{ text: "Changelog", link: "https://github.com/..." }
 		]
 	},
-	// base: "/vitepress/",
-	base: "/"
+	base: "/vitepress/"
 };
